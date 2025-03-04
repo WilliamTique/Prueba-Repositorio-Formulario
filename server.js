@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const express = require('express');
 const path = require('path');
 
@@ -11,9 +12,8 @@ app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));
 });
 
-// Expose 
+// Expose
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
-      console.log(`Server is running on port ${PORT}`);
+console.log(`Server is running on port ${PORT}`);
 });
-
