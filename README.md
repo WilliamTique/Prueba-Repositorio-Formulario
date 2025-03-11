@@ -1,13 +1,8 @@
 <a name="readme-top"></a>
 
-
-
 <div align="center">
-  
-  <img src="./src/assets/images/LOGOv2.png" alt="logo" width="250" height="250" />
-  <br/>
 
-  <h3><b>TV Maze App</b></h3>
+  <h3><b>Formulario</b></h3>
 
 </div>
 
@@ -38,11 +33,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [TV AMAZE APP ] <a name="about-project"></a>
+# 📖 [FORMULARIO ] <a name="about-project"></a>
 
-  **[TV Amaze App]**  TV Amaze App is a SPA app that leverages REST methods to provide users with an immersive experience in exploring and interacting with a vast collection of TV series. By incorporating likes, comments, and reservation functionalities, this app allows users to engage with their favorite shows and effectively manage their viewing schedule. Powered by ES6 modules, Webpack, babel and the utilization of async/await and Promises, TV Maze App delivers a seamless and efficient user experience. The app was built using plain javascript and express  to hightlight the skills to construct SPA apps without frameworks.
-  Moreover I used docker, docker compose and bash script to automate the deployment process in wherever the app is running. Just run the script to deploy the app in wherever cloud provider you are using and enjoy the app.
- 
+  **[FORMULARIO]**  It is a questionnaire that gathers information about the person who is completing the application and what type of vehicle they would purchase, based on a few simple questions.
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -79,15 +72,6 @@
 - **[Bash Script to automate deployment]**
 - **[CI and CD Deployment with Netlify]**
 
-### Series List:
- TV Amaze App fetches data from the TV Maze API and displays an extensive list of TV series to users. The app employs REST methods to efficiently retrieve and present series information, including title, genre, summary, and rating. The well-organized series list provides users with a seamless browsing experience. Render different series by genre and   search series by title.
-
-### Likes:
- Users can express their preferences and indicate their favorite series by utilizing the "Like" feature. This functionality is achieved through REST methods, enabling users to interact with the app and curate their personal collection of liked shows. By utilizing async/await and Promises, the app ensures smooth and responsive liking functionality.
-
-### Comments Popup: 
- TV Amaze App enables users to engage in discussions and share their thoughts on specific TV series by leaving comments. Leveraging REST methods, users can interact with the app to post comments, fostering a community-driven environment. The implementation of ES6 modules and async/await allows for seamless handling of comment-related operations in a popup window.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -96,7 +80,7 @@
 
 > 
 
-- [Live Demo Link](	https://google.com)
+- [Live Demo Link](	webpack-form3-gpb0bzh3cvfjc4cd.brazilsouth-01.azurewebsites.net)
 
 
 
@@ -128,8 +112,8 @@ To run this project  you need the following tools:
 
 Clone this repository to your desired folder:
 ```sh
- cd TV-AMAZE-APP
- git clone git@github.com:alyconr/TV-AMAZE-APP.git
+ cd FORMULARIOS
+ git clone git@github.com:WilliamTique/Prueba-Repositorio-Formulario.git
 ```
 
 
@@ -215,17 +199,8 @@ Concurrent, the npm package for running multiple commands in parallel
 To run locally run the following command:
 ## Development mode
 ```sh
-    npm run build-dev
-    npm run devserver-reload    
+    npm run start  
 ```
-## Production mode
-```sh
-    npm run build-prod
-    npm run server-prod
-```
-
-
-### Run tests
 
 To run tests, run the following command:
 
@@ -291,13 +266,13 @@ With the last script, the app will be deployed to any cloud provider you want to
 
 ## 👥 Authors <a name="authors"></a>
 
-JEYSSON CONTRERAS
+WILLIAM ANDRES TIQUE
 
 
 👤 **Author1**
 
-- GitHub: [@alyconr](https://github.com/alyconr)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jeysson-aly-contreras/)
+- GitHub: [@alyconr](https://github.com/WilliamTique)
+- LinkedIn: [LinkedIn]()
 
 
 
