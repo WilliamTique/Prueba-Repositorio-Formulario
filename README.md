@@ -328,7 +328,7 @@ I would like to thank  God for giving me the strength to carry out this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](LICENSE.md) licensed.
+This project is [GNU General Public License v3.0](LICENSE.md) licensed.
 
 
 
